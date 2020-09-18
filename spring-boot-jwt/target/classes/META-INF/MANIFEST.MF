@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Regaip Aydoğdu
+Implementation-Vendor-Id: com.proje
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-jwt
+Created-By: Maven Integration for Eclipse
+
